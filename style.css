@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    /*background-color: black;*/
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+#onBulb
+{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 605px;
+    height: 250px;
+    width: 250px;
+}
+.but
+{
+    margin-top: 100px;
+    margin-left: 600px;
+}
+.but1
+{
+    margin-right: 20px;
+}
